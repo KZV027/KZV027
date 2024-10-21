@@ -1,39 +1,82 @@
-## 🧑‍💻 About Me
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KZV027.KZV027" />
 
-- 👋 I’m **Kshitiz Verma** (@KZV027), a final year student focused on **Machine Learning** and **Data Science**.
-- 💻 Skilled in Python, Django, and TensorFlow.
-- 💞 Looking to collaborate on **Open Source** projects.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kshitiz+Verma!;" />
+</h1>
 
-![GIF](https://media.giphy.com/media/h2LCfvk3XBlQxKyKWY/giphy.gif)
+<h3 align="center">A passionate final-year student specializing in Machine Learning & Data Science</h3>
 
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **image colorization**  
+ 
+🌱 I’m expanding my knowledge in **DSA, ML ,CNN,RNN**  
+
+💬 Ask me about **Python, TensorFlow, or any ML-related topic [here](https://github.com/KZV027/KZV027/issues)**  
+
+⚡ Fun fact **I can code a deep learning model and explain it with memes!**
+
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:kshitizverma2712@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kshitiz-verma-308794233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.youtube.com/@TheWhy.Guy_" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+     <img src="https://skillicons.dev/icons?i=python,r,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,flask,django" /><br>
   
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitiz-verma-308794233/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TheWhy.Guy_) 
+</div>
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003b57?style=for-the-badge&logo=matplotlib&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+<br/>
+<hr/>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KZV027&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KZV027&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KZV027&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=KZV027&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KZV027&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KZV027&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KZV027&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<div align="center">
+  <a href="https://www.youtube.com/@TheWhy.Guy_" target="_blank">
+    <img height="100" style="border:0px;height:100px;" src="https://profounder.com/wp-content/uploads/2021/06/youtube-subscribe.png" border="0" alt="Subscribe to my YouTube channel" />
+  </a>
+</div>
 
 
-<!---
-KZV027/KZV027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+<br/>
